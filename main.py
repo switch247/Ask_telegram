@@ -10,7 +10,7 @@ from aiogram.dispatcher import FSMContext
 logging.basicConfig(level=logging.INFO)
 
 # Initialize bot and dispatcher
-bot = Bot(token="5699527558:AAGtfCXqGB5fDqcByRpNTq2rPZzcUbIh504")
+bot = Bot(token="6279551458:AAGtGSJpADrw3IEK-230oUlu0ebTNMEji-s")
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
