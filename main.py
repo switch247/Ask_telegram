@@ -142,7 +142,7 @@ async def process_approval(query: types.CallbackQuery):
     else:
         await query.answer("Invalid question index.")
 
-chanel_or_group='@Ale_gebeya'
+chanel_or_group='@beertutorials1'
 if __name__ == '__main__':
     # Start the bot
     try:
